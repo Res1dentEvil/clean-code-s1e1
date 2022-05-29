@@ -136,7 +136,7 @@ input,
     width: 226px;
 }
 
-.li> .input-text {
+.li>.input-text {
     width: 226px
 }
 
@@ -157,11 +157,11 @@ input,
 }
 
 /* Edit Task */
-.li > .input-text {
+.li>.input-text {
     display: none
 }
 
-.li.edit-mode > .input-text {
+.li.edit-mode>.input-text {
     display: inline-block;
     width: 224px
 }
