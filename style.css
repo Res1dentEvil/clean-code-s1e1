@@ -159,15 +159,15 @@ input,
 }
 
 /* Edit Task */
-.list__item > .input-text {
+.list__item>.input-text {
     display: none;
-  }
-  
-  .list-item_edit-mode > .input-text {
+}
+
+.list-item_edit-mode>.input-text {
     display: inline-block;
     width: 224px;
-  }
-  
-  .list-item_edit-mode .label {
+}
+
+.list-item_edit-mode .label {
     display: none;
-  }
+}
